@@ -22,7 +22,7 @@
 #k-means organize into clusters (self-chosen number) - items are randomly assigned to a cluster - the mean vector fo rall items in each hcluster is computed, items are reassigned to the cluster whose center is closest to them - random starting points so will not always get the same answer, number of trial done to deal with the randomness
 #self organizing maps
 
-
+#Modificación de comentarios
 
 library(pheatmap)
 library(heatmaply)
